@@ -1,0 +1,17 @@
+{
+  "name": "client-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@apidevtools/swagger-parser": "^10.1.0",
+    "@openapitools/openapi-generator-cli": "^2.5.1",
+    "axios": "^1.6.0"
+  }
+}
